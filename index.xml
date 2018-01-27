@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anna Barth on Notre-Dame de Paris</title>
+    <title>Anna Barth</title>
     <link>https://barthac.github.io/</link>
-    <description>Recent content in Anna Barth on Notre-Dame de Paris</description>
+    <description>Recent content on Anna Barth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://barthac.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Contact</title>
-      <link>https://barthac.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barthac.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
-    </item>
     
   </channel>
 </rss>
