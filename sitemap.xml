@@ -14,11 +14,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://barthac.github.io/visualizations/</loc>
+    <loc>https://barthac.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://barthac.github.io/tags/</loc>
+    <loc>https://barthac.github.io/visualizations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science and Art on Anna Barth</title>
+    <title>Visualizations on Anna Barth</title>
     <link>https://barthac.github.io/visualizations/</link>
-    <description>Recent content in Science and Art on Anna Barth</description>
+    <description>Recent content in Visualizations on Anna Barth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://barthac.github.io/visualizations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
